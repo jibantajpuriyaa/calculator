@@ -12,6 +12,9 @@ I'm a full stack developer...
 and mobile app developer.
 
 
+## Demo
+
+https://jibantajpuriyaa.github.io/calculator/
 
 
 
