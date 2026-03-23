@@ -60,11 +60,8 @@ onChange={handleOnChange}/>
   <label class="form-check-label checkbox-text" for="switchCheckDefault">Dark mode</label>
 </div>
    
-    <div className="headingtext"><h3>Hi this is my frist app<br/> check github <br/><br/><br/><br/><br/>
-    <div className="seconddiv">Jiban Tajpuriya's  future projects.
-    <ul>
-      <li>Messsaging app</li>
-      </ul></div></h3></div>
+    <div className="headingtext"><h3>
+  </h3></div>
   
 
   <div className="container">
